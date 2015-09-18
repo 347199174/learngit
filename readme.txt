@@ -10,4 +10,8 @@ create a new branch is quick and& simple
 =======
 create a new branch is quick an simple
 >>>>>>> featurel
-aatest bb
+<<<<<<< HEAD
+aatest aa
+=======
+aatest aa
+>>>>>>> aa
